@@ -17,6 +17,10 @@
 
 <br />
 
+> LIVEFLOW 메인 페이지
+>
+> <img src="images/gif/liveflow_main.gif" alt="LIVEFLOW 메인 페이지" />
+
 > LIVEFLOW 이벤트 개설 페이지
 > 
 > <img src="images/liveflow_event_add.png" alt="LIVEFLOW 이벤트 개설 페이지" />
