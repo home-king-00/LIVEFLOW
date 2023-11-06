@@ -8,7 +8,7 @@
 
 ---
 
-- LIVEFLO(약 15 페이지)
+- LIVEFLOW(약 15 페이지)
     - 프론트엔드
         - Jquery
         - Bootstrap
